@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://km.del.ac.id/sitemap.xml
